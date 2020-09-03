@@ -1,7 +1,7 @@
 class Solution:
     '''
     给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
-
+    https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/wu-zhong-fu-zi-fu-de-zui-chang-zi-chuan-by-leetc-2/
     示例 1:
     输入: "abcabcbb"
     输出: 3
